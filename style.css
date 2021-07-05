@@ -60,3 +60,26 @@ p {
     display: flex;
     margin-bottom: 100px;
 }
+
+#about-me {
+    text-align: center;
+}
+
+.bottom-images {
+    width: 50%;
+    display: block;
+    margin: 2%;
+    border-radius: 5%;
+    box-shadow: 10px 10px lightgray;
+
+
+}
+
+.bottom-images img {
+    width: 100%;
+
+}
+
+#bottom-section {
+    margin: 5%;
+}
