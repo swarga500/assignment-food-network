@@ -1,6 +1,7 @@
 body {
     font-family: 'Rubik', sans-serif;
     margin: 1%;
+
 }
 
 h1 {
@@ -13,6 +14,7 @@ h1 {
 p {
     color: dimgray;
     line-height: 30px;
+
 
 }
 
@@ -27,17 +29,19 @@ p {
 
 .button {
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
-    padding: 10px 40px;
+    background-image: linear-gradient(orange, red);
+    padding: 20px 50px;
     margin-top: 500px;
-    border-radius: 20%;
+    border-radius: 40px;
     color: white;
     font-weight: 700;
+    font-size: 25px;
 }
 
 #top-background {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    padding: 50px;
 }
 
 #mid-banner {
@@ -52,7 +56,7 @@ p {
 }
 
 .half-width img {
-    width: 100%;
+    width: 550px;
 }
 
 #img-size {
@@ -111,7 +115,7 @@ p {
 }
 
 #social-head {
-    text-align: center;
+    text-align: center !important;
 }
 
 
