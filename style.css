@@ -9,6 +9,7 @@ h1 {
 
 }
 
+
 p {
     color: dimgray;
     line-height: 30px;
@@ -86,6 +87,31 @@ p {
 #bottom-section {
     margin: 5%;
 }
+
+#social {
+    display: flex;
+    margin-left: 480px;
+    margin-right: 0px;
+}
+
+.social-div {
+    border: 5px solid white;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px lightgray;
+
+}
+
+.social-div img {
+    width: 50px;
+}
+
+#social-head {
+    text-align: center;
+}
+
+
+
 
 footer {
     text-align: center;
