@@ -43,12 +43,16 @@ p {
 #mid-banner {
     background-image: url(images/background2.png);
     background-repeat: no-repeat;
-    height: 500px;
+    height: 485px;
 }
 
 .half-width {
     width: 50%;
     padding: 5%;
+}
+
+.half-width img {
+    width: 100%;
 }
 
 #img-size {
@@ -59,7 +63,7 @@ p {
 
 .flex-container {
     display: flex;
-    margin-bottom: 80px;
+    margin-bottom: 50px;
 }
 
 #my-recipies {
